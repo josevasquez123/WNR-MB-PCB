@@ -316,9 +316,6 @@
     (path "/01d7d744-ce63-4d1f-bb6f-d35583e9c7e9/42796a94-ebe5-4f67-be0f-bce751792ca2"
       (reference "J101") (unit 1) (value "SWITCH ON/OFF") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
-    (path "/01d7d744-ce63-4d1f-bb6f-d35583e9c7e9/8a4a9ca0-8e7c-4c22-acb9-f72db3ed50e5"
-      (reference "J102") (unit 1) (value "JUMPER ON/OFF TEST") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
-    )
     (path "/01d7d744-ce63-4d1f-bb6f-d35583e9c7e9/25835c2c-6465-427e-9baf-a18c73709f53"
       (reference "J103") (unit 1) (value "FAN VOLTAGE") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
