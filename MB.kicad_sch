@@ -229,8 +229,8 @@
     (path "/49de258e-96ca-49a0-a4f5-782da6c5390d/eeaeae1b-f7f5-4311-8ab8-b2aa5651ee8a"
       (reference "#PWR0128") (unit 1) (value "+5V") (footprint "")
     )
-    (path "/49de258e-96ca-49a0-a4f5-782da6c5390d/569f61dd-1c85-4d5b-a79d-4de4a4fdc511"
-      (reference "#PWR0129") (unit 1) (value "GND") (footprint "")
+    (path "/49de258e-96ca-49a0-a4f5-782da6c5390d/ee72b2bd-6659-4f31-a7d3-ea4deb80f61f"
+      (reference "#PWR0129") (unit 1) (value "+5V") (footprint "")
     )
     (path "/49de258e-96ca-49a0-a4f5-782da6c5390d/f05a7436-6192-4d41-adfb-847ca48a5bf4"
       (reference "#PWR0130") (unit 1) (value "+5V") (footprint "")
@@ -270,9 +270,6 @@
     )
     (path "/49de258e-96ca-49a0-a4f5-782da6c5390d/85cf646c-e6db-4905-a2ee-bcde09fe357d"
       (reference "C304") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
-    )
-    (path "/49de258e-96ca-49a0-a4f5-782da6c5390d/02dc0c21-508d-4969-94f2-2c5c9eb99c52"
-      (reference "C305") (unit 1) (value "4n7") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/01d7d744-ce63-4d1f-bb6f-d35583e9c7e9/969118f2-c652-4931-b934-06f1f02c8b44"
       (reference "D100") (unit 1) (value "SMF24A-TP") (footprint "Jose_:SOD_123FL")
@@ -361,12 +358,6 @@
     (path "/49de258e-96ca-49a0-a4f5-782da6c5390d/66d5ae63-c88b-4958-9157-c229108c6899"
       (reference "R300") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
-    (path "/49de258e-96ca-49a0-a4f5-782da6c5390d/52fbf6b7-3429-4a7a-a421-56a85b6a4486"
-      (reference "R301") (unit 1) (value "60") (footprint "Resistor_SMD:R_0402_1005Metric")
-    )
-    (path "/49de258e-96ca-49a0-a4f5-782da6c5390d/c5694d11-0803-45ac-b2b2-60808f0c4c74"
-      (reference "R302") (unit 1) (value "60") (footprint "Resistor_SMD:R_0402_1005Metric")
-    )
     (path "/01d7d744-ce63-4d1f-bb6f-d35583e9c7e9/ef8bb80a-9c18-4003-ae79-3acf57fbda2d"
       (reference "TP100") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
     )
@@ -400,8 +391,8 @@
     (path "/49de258e-96ca-49a0-a4f5-782da6c5390d/cd9b9318-107b-46da-b308-746acd50179b"
       (reference "U300") (unit 1) (value "MCP2515-xSO") (footprint "Package_SO:SOIC-18W_7.5x11.6mm_P1.27mm")
     )
-    (path "/49de258e-96ca-49a0-a4f5-782da6c5390d/faa82408-4fc6-4871-99bb-aca4fce743e3"
-      (reference "U301") (unit 1) (value "TJA1050") (footprint "TJA1050T:SOT96-1")
+    (path "/49de258e-96ca-49a0-a4f5-782da6c5390d/1642fd0d-1aa2-4b8f-84fe-51d0ac2c585b"
+      (reference "U301") (unit 1) (value "TJA1051T-3") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/49de258e-96ca-49a0-a4f5-782da6c5390d/df80aa49-a672-4c9c-b7d5-313ef31490e8"
       (reference "Y300") (unit 1) (value "8MHz") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm")
