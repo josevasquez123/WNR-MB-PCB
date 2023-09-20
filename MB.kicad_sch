@@ -326,7 +326,7 @@
       (reference "J301") (unit 1) (value "CAN_INPUT") (footprint "Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal")
     )
     (path "/00be2e9d-d030-4a1c-b1f0-97d7f0503826/0ac64d06-02f0-49b9-86e8-beac9c9647dd"
-      (reference "K200") (unit 1) (value "HF49FD/005-1H12T") (footprint "HF49_RELAY:RELAY_HF49FD_005-1H12T")
+      (reference "K200") (unit 1) (value "HF49FD/005-1H12T") (footprint "HF49FD_005-1H11F:HF49FD0051H11F")
     )
     (path "/01d7d744-ce63-4d1f-bb6f-d35583e9c7e9/db27f541-2755-4a98-9a57-3ea1cffc2567"
       (reference "L100") (unit 1) (value "68u") (footprint "Jose_:SMD_12.3X12.3mm")

@@ -1791,7 +1791,7 @@
     (uuid 0ac64d06-02f0-49b9-86e8-beac9c9647dd)
     (property "Reference" "K200" (id 0) (at 206.883 108.966 0))
     (property "Value" "HF49FD/005-1H12T" (id 1) (at 206.883 111.506 0))
-    (property "Footprint" "HF49_RELAY:RELAY_HF49FD_005-1H12T" (id 2) (at 206.883 121.285 0)
+    (property "Footprint" "HF49FD_005-1H11F:HF49FD0051H11F" (id 2) (at 206.883 121.285 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 206.883 121.285 0)
