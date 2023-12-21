@@ -1,4 +1,4 @@
-22455037285294348
+22463552652817646
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -54935,6 +54935,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ESP32
+MODULE_ESP32_DEVKIT_V1
+
+
+0
+30
+30
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -59233,6 +59240,13 @@ air coil inductor wurth we cair
 0
 2
 2
+Inductor_SMD_Jose
+L_12.3x12.3
+
+
+0
+2
+2
 Inductor_SMD_Wurth
 L_Wurth_WE-LQSH-2010
 Semi-Shielded High Saturation Power Inductor, body 2x1.6mm, https://www.we-online.com/catalog/en/WE-LQSH#/articles/WE-LQSH-2010
@@ -62495,6 +62509,13 @@ Yellow 5381 Series LED
 0
 2
 2
+L_12_3x12_3
+INDPM122123X620N
+12.3x12.3
+Inductor
+0
+2
+2
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -62754,6 +62775,13 @@ ESP8266 WiFi microcontroller
 0
 16
 16
+Molex_39281023
+MOLEX_39281023
+
+
+0
+2
+2
 Motors
 Vybronics_VZ30C1T8219732L
 Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf
@@ -85245,6 +85273,13 @@ rotary encoder
 0
 7
 6
+SOD_123FL
+SOD_123FL
+
+
+0
+2
+2
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
